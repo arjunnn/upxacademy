@@ -109,7 +109,9 @@ body {
   padding-top: 0.5em;
   width: auto;
   height: auto;
-  background-image: url("https://placehold.it/1000x350/000000");
+  /*background-image: url("https://placehold.it/1000x350/000000");*/
+  background-image: url("../images/shattered-island.gif");
+
 }
 
 .tab-small {
